@@ -1,0 +1,57 @@
+[
+    {
+      "title": "Aici e Romania",
+      "description": "România în pași de aventură!",
+      "url": "index.html"
+    },
+    {
+      "title": "România uimitoare",
+      "description": "Romania este o destinație fascinantă cu o bogată moștenire culturală, peisaje spectaculoase și o istorie încântătoare. Iată câteva motive pentru care merită să vizitezi Romania: De la Munții Carpați și deltele lor până la Delta Dunării și plajele Mării Negre, Romania oferă o varietate de peisaje naturale deosebite, perfecte pentru iubitorii de natură și aventură.Romania este plină de cetăți și castele medievale impresionante, cum ar fi Castelul Bran (cunoscut și sub numele de Castelul lui Dracula), Castelul Peleș sau cetatea medievală Sighișoara, oferind o incursiune captivantă în istoria și cultura sa.",
+      "url": "index.html"
+    },
+    {
+      "title": "Timisoara",
+      "description": "Timișoara: Perla Culturală și Istorică din Inima Banatului",
+      "url": "timisoara.html"
+    },
+    {
+      "title": "Bucuresti",
+      "description": "București: capitala României",
+      "url": "bucuresti.html"
+    },
+    {
+      "title": "Bucataria Romaneasca",
+      "description": "Gastronomia românească e gustoasă!",
+      "url": "Bucataria romaneasca.html"
+    },
+    {
+      "title": "Bucataria Romaneasca",
+      "description": "Explorăm adâncimile bucătăriei românești, de la sarmale la mămăligă.",
+      "url": "Bucataria romaneasca.html"
+    },
+    {
+      "title": "Bucataria Romaneasca",
+      "description": "Sarmalele ocupă un loc special în gastronomia românească, fiind unul dintre cele mai iubite și reprezentative preparate culinare ale țării",
+      "url": "Bucataria romaneasca.html"
+    },
+    {
+      "title": "Bucataria Romaneasca",
+      "description": "Sarmalele sunt pregătite în mod tradițional din carne tocată de porc, amestecată cu orez și condimente, împachetate în foi de varză sau de viță de vie și se servesc de obicei alături de smântână și mămăligă, completând astfel un festin culinar românesc autentic.",
+      "url": "Bucataria romaneasca.html"
+    },
+    {
+      "title": "Bucataria Romaneasca",
+      "description": "Micii cu muștar sunt unul dintre cele mai apreciate și populare preparate din bucătăria românească.",
+      "url": "Bucataria romaneasca.html"
+    },
+    {
+      "title": "Povestea Noastra",
+      "description": "Aflați mai multe despre noi și despre pasiunea noastră pentru cultura românească.",
+      "url": "Povestea noastra.html"
+    },
+    {
+      "title": "Tradițiile românești",
+      "description": "Tradițiile românești sunt extrem de diverse și bogate, reflectând istoria îndelungată și amestecul de influențe culturale.",
+      "url": "Traditii romanesti.html"
+    }
+]
